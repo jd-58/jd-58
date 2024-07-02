@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello! My name is Jacob, and I am currently enrolled at Oregon State University, studying Computer Science through their Ecampus.
 
 <!--
 **jd-58/jd-58** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
