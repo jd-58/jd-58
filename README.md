@@ -1,4 +1,45 @@
-## Hello! My name is Jacob, and I am currently enrolled at Oregon State University, studying Computer Science through their Ecampus.
+## About Me 👋
+
+Hello! My name is Jacob, and I am currently enrolled at Oregon State University, studying Computer Science through their Ecampus. Read on to learn more about me, or visit my [portfolio website!](https://www.jacob-deaton.com/)
+
+
+After 2 years of working as a Business Development Analyst in government contracting, I realized that my true passion was coding! I started my Computer Science degree at Oregon State University in June of 2024, and am projected to graduate in August of 2026.
+
+## Education 📖
+_- Current:_ **Oregon State University,** B.S. in Computer Science | June 2024 - August 2026 (Expected)
+
+_- Previous:_ **University of Virginia,** B.A. in Economics | August 2017 - May 2021
+
+## Projects 💻
+### **[Stock Analyzer App](https://github.com/jd-58/stock-analyzer)** - Python
+A Python program that uses the Yahoo Finance API to download and display live stock data. Custom Tkinter was used to create a GUI, along with Matplotlib to create the graph. For more information, including instructions for how to run the project on your machine, click on the link to go to the repository!
+screenshot here
+<br>
+
+### **[Etch-a-Sketch](https://github.com/jd-58/etch-a-sketch)** - _[Demo](https://www.jacob-deaton.com/etch-a-sketch.html)_ - HTML, CSS, JavaScript
+A drawing program based on the classic Etch-A-Sketch toy. Features include a color selection button (including a "Random Color" option that automatically chooses a random color for each grid cell as you draw), grid size selector, and the ability to clear the grid. Click the "Demo" button to try it out, or click on the link to go to the repository! 
+screenshot
+
+### **[Portfolio Website](https://www.jacob-deaton.com/)** 
+A portfolio website that I created from scratch using HTML and CSS! The website showcases my projects, resume, and hosts my Etch-a-Sketch project.
+
+## Work Experience ✏️
+_Business Development Analyst_, FMP Consulting | Sept. 2021 – Dec. 2023
+
+- Led the creation and development of a customized Power BI Data Dashboard, leveraging thousands of real-time data points from Microsoft Dynamics and custom DAX functions to effectively summarize key business metrics for executive stakeholders.
+- Served as the technical lead for workforce benefits analysis, utilizing Python's Seaborn and Matplotlib libraries to efficiently visualize essential metrics derived from Qualtrics survey data.
+- Actively contributed to the capture planning, content generation, and final review of over 20 impactful proposals in the human capital sector, with the collective contracts valued at over $5 million. Independently developed 5 RFIs from inception to completion.
+
+
+## Resume 📝
+If you'd like to download a copy, head to my [portfolio website!](https://www.jacob-deaton.com/index.html#resume)
+picture
+
+## Contact Me 📫
+<a href="mailto:deatonja@oregonstate.edu">![deatonja@oregonstate.edu](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
+
+<a href="https://www.linkedin.com/in/jacob-deaton-45a02b171/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+
 
 <!--
 **jd-58/jd-58** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
