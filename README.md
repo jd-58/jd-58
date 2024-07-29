@@ -13,12 +13,15 @@ _- Previous:_ **University of Virginia,** B.A. in Economics | August 2017 - May 
 ## Projects 💻
 ### **[Stock Analyzer App](https://github.com/jd-58/stock-analyzer)** - Python
 A Python program that uses the Yahoo Finance API to download and display live stock data. Custom Tkinter was used to create a GUI, along with Matplotlib to create the graph. For more information, including instructions for how to run the project on your machine, click on the link to go to the repository!
-screenshot here
-<br>
+
+![A screenshot of the stock analyzer app. It shows the 6 month price history of AAPL](images/stock-analyzer-aapl-6mo.png)
+
+
 
 ### **[Etch-a-Sketch](https://github.com/jd-58/etch-a-sketch)** - _[Demo](https://www.jacob-deaton.com/etch-a-sketch.html)_ - HTML, CSS, JavaScript
 A drawing program based on the classic Etch-A-Sketch toy. Features include a color selection button (including a "Random Color" option that automatically chooses a random color for each grid cell as you draw), grid size selector, and the ability to clear the grid. Click the "Demo" button to try it out, or click on the link to go to the repository! 
-screenshot
+
+![A screenshot of the etch-a-sketch program](images/etch-a-sketch.png)
 
 ### **[Portfolio Website](https://www.jacob-deaton.com/)** 
 A portfolio website that I created from scratch using HTML and CSS! The website showcases my projects, resume, and hosts my Etch-a-Sketch project.
@@ -33,7 +36,8 @@ _Business Development Analyst_, FMP Consulting | Sept. 2021 – Dec. 2023
 
 ## Resume 📝
 If you'd like to download a copy, head to my [portfolio website!](https://www.jacob-deaton.com/index.html#resume)
-picture
+
+![A picture of Jacob Deaton's resume](images/jd-resume-image.png)
 
 ## Contact Me 📫
 <a href="mailto:deatonja@oregonstate.edu">![deatonja@oregonstate.edu](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
