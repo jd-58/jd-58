@@ -19,6 +19,8 @@ A Python program that uses the Yahoo Finance API to download and display live st
 ### **[Blackjack Game](https://github.com/jd-58/pygame-cardgame)** - Python
 A blackjack game made using Python and Pygame. Currently training an AI to play the game using Pytorch! The game includes all US Casino rules, including splitting (up to 3 hands per turn), doubling down, insurance, and late surrender. For more information, including instructions for how to run the project on your machine, click on the link to go to the repository!
 
+![A screenshot of my blackjack game. It shows a turn that includes a split hand.](images/screenshot-split.png)
+
 ### **[Etch-a-Sketch](https://github.com/jd-58/etch-a-sketch)** - _[Demo](https://www.jacob-deaton.com/etch-a-sketch.html)_ - HTML, CSS, JavaScript
 A drawing program based on the classic Etch-A-Sketch toy. Features include a color selection button (including a "Random Color" option that automatically chooses a random color for each grid cell as you draw), grid size selector, and the ability to clear the grid. Click the "Demo" button to try it out, or click on the link to go to the repository! 
 
