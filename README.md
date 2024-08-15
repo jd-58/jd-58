@@ -26,7 +26,7 @@ A drawing program based on the classic Etch-A-Sketch toy. Features include a col
 
 ![A screenshot of the etch-a-sketch program](images/etch-a-sketch.png)
 
-### **[Portfolio Website](https://www.jacob-deaton.com/)** 
+### **[Portfolio Website](https://www.jacob-deaton.com/)** - HTML, CSS
 A portfolio website that I created from scratch using HTML and CSS! The website showcases my projects, resume, and hosts my Etch-a-Sketch project.
 
 ## Work Experience ✏️
