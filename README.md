@@ -16,7 +16,7 @@ A Python program that uses the Yahoo Finance API to download and display live st
 
 ![A screenshot of the stock analyzer app. It shows the 6 month price history of AAPL](images/stock-analyzer-aapl-6mo.png)
 
-### **[Blackjack Game](https://github.com/jd-58/pygame-cardgame)** - Python
+### **[Blackjack Game](https://github.com/jd-58/blackjack)** - Python
 A blackjack game made using Python and Pygame. Currently training an AI to play the game using Pytorch! The game includes all US Casino rules, including splitting (up to 3 hands per turn), doubling down, insurance, and late surrender. For more information, including instructions for how to run the project on your machine, click on the link to go to the repository!
 
 ![A screenshot of my blackjack game. It shows a turn that includes a split hand.](images/screenshot-split.png)
