@@ -19,7 +19,7 @@ A Python program that uses the Yahoo Finance API to download and display live st
 ### **[Weather Tracker Program](https://github.com/jd-58/weather-tracker)** - Assembly
 A program built in x86 MASM Assembly that will track user-entered daily temperature readings, and output helpful statistics such as the minimum, maximum, and average temperature. It will also tell the user how many cold, cool, warm, and hot days there were!
 
-![A Screenshot of the program after taking user temperature readings and running the calculations.]
+![A Screenshot of the program after taking user temperature readings and running the calculations.](images/weather_analyzer_screenshot.jpg)
 
 
 ### **[Blackjack Game](https://github.com/jd-58/blackjack)** - Python
