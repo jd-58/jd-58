@@ -6,9 +6,9 @@ Hello! My name is Jacob, and I am currently enrolled at Oregon State University,
 After 2 years of working as a Business Development Analyst in government contracting, I realized that my true passion was coding! I started my Computer Science degree at Oregon State University in June of 2024, and am projected to graduate in August of 2026.
 
 ## Education 📖
-_- Current:_ **Oregon State University,** B.S. in Computer Science | June 2024 - May 2026 (Expected)
+_- Current:_ **Oregon State University,** B.S. in Computer Science | June 2024 - May 2026 (Expected) | 4.0 GPA
 
-_- Previous:_ **University of Virginia,** B.A. in Economics | August 2017 - May 2021
+_- Previous:_ **University of Virginia,** B.A. in Economics | August 2017 - May 2021 | 3.34 GPA
 
 ## Projects 💻
 ### **[Stock Analyzer App](https://github.com/jd-58/stock-analyzer)** - Python
