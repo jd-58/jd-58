@@ -16,8 +16,8 @@ A Python program that uses the Yahoo Finance API to download and display live st
 
 ![A screenshot of the stock analyzer app. It shows the 6 month price history of AAPL](images/stock-analyzer-aapl-6mo.png)
 
-### **[Weather Tracker Program](https://github.com/jd-58/weather-tracker)** - Assembly
-A program built in x86 MASM Assembly that will track user-entered daily temperature readings, and output helpful statistics such as the minimum, maximum, and average temperature. It will also tell the user how many cold, cool, warm, and hot days there were! (This repository is private, but I can share some code upon request!)
+### Weather Tracker Program - x86 Assembly
+A program built in x86 MASM Assembly that will track user-entered daily temperature readings, and output helpful statistics such as the minimum, maximum, and average temperature. It will also tell the user how many cold, cool, warm, and hot days there were! (This repository is private)
 
 ![A Screenshot of the program after taking user temperature readings and running the calculations.](images/weather_analyzer_screenshot.png)
 
